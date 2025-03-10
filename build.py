@@ -5,7 +5,7 @@ https://github.com/ppizarror/pygame-menu
 BUILD
 Build file.
 """
-
+#Demo Project
 import os
 import shutil
 import sys
